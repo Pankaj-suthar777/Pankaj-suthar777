@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pankaj-suthar777
+- 👋 Hi, I’m Pankaj suthar @Pankaj-suthar777
 - 👀 I’m interested in MERN stack and react navtive
 - 🌱 I’m currently learning react and react native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with devs
 - 📫 How to reach me : you can reach me through twitter and linkdin or you can email me on pankajss0070@mail.com
 
 <!---
