@@ -2,5 +2,5 @@
 - 👀 Interested in Nextjs/MERN stack and React Native.
 - 🌱 Currently learning React Native.
 - 💞️ Open to collaborating with fellow developers.
-- 📫 Reach me on Twitter, LinkedIn, or email at pankajss0070@mail.com.
+- 📫 Reach me on Twitter, LinkedIn, or email at pankajss0070@gmail.com.
 - 🚀 Next on my learning journey: Sharpening skills in full stack developement by coding every day. Let's code and create together! 🤝
